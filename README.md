@@ -8,8 +8,6 @@ A simple constrained-rich-text editor using [Electron](https://www.electronjs.or
 ![screenshot.png](screenshot.png)
 
 ## Features
-
-*   Open and save files as markdown (MD).
 *   View to edit the document as rich-text.
 *   Rich-text is constrained. Only headings, bold, italics, To-do lists, strikethrough, bulleted lists, numbered lists, links, block quotes, code, tables, images, and horizontal lines are included. All other styling( e.g. font size, font color, spacing, alignment, etc.) is automatically filtered.
 *   Rich-text is displayed with a fixed appearance. Modifiable via stylesheet (or in preferences in the future).
