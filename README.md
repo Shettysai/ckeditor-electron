@@ -1,8 +1,7 @@
-## ckeditor electron (Formerly mark-pad)
+## ckeditor electron 
 
 A simple constrained-rich-text editor using [Electron](https://www.electronjs.org/), and [CKEditor 5](https://github.com/ckeditor/ckeditor5). Runs on Windows, macOS, Linux, and Chrome OS (via Crostini).
 
-Forked and expanded on from [mingong/tiny-electron](https://github.com/mingong/tiny-electron).
 
 ## Screenshot
 
@@ -35,9 +34,3 @@ To build executables:
 `yarn dist`
 
 To install as an application, run the appropriate executable (e.g., .exe, .deb) in the dist folder after building.
-
-## Related
-
-Similar rich-text editors:
-
-*   [Noto Sans Mono CJK TC](https://raw.githubusercontent.com/googlefonts/noto-cjk/main/Sans/Mono/NotoSansMonoCJKtc-Regular.otf)
